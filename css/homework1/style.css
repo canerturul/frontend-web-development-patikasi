@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.list {
+    display: inline-block;
+}
+nav ul li{
+    display: inline-block;
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+nav ul li a{
+    text-decoration: unset;
+    padding-right: 40px;
+    color: burlywood;
+}
+h2 {
+    color:darkblue
+}
+footer{
+    font-weight: bold;
+    color:black;
+}
